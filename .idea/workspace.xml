@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="141dfd5a-1c04-43c4-8934-c255e0d7208b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/authors_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/authors_controller.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/authors/new.html.erb" afterPath="$PROJECT_DIR$/app/views/authors/new.html.erb" />
     </list>
     <ignored path="rails-exercise-16.iws" />
@@ -48,8 +48,8 @@
       <file leaf-file-name="new.html.erb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/authors/new.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.04988662">
-              <caret line="2" column="40" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
+            <state vertical-scroll-proportion="0.4739229">
+              <caret line="19" column="41" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="41" />
               <folding />
             </state>
           </provider>
@@ -80,8 +80,8 @@
       <list>
         <option value="$PROJECT_DIR$/config/routes.rb" />
         <option value="$PROJECT_DIR$/app/views/authors/authors/new.html.erb" />
-        <option value="$PROJECT_DIR$/app/views/authors/new.html.erb" />
         <option value="$PROJECT_DIR$/app/controllers/authors_controller.rb" />
+        <option value="$PROJECT_DIR$/app/views/authors/new.html.erb" />
       </list>
     </option>
   </component>
@@ -920,8 +920,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/authors/new.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.04988662">
-          <caret line="2" column="40" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
+        <state vertical-scroll-proportion="0.4739229">
+          <caret line="19" column="41" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="41" />
           <folding />
         </state>
       </provider>
