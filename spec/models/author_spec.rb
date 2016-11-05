@@ -5,4 +5,7 @@ RSpec.describe Author, type: :model do
       @author = build(:author)
       expect(@author).to_not be_nil
   end
+  it "should return full name" do
+    @author = build(:author)
+    expect(@author.name).to eq("Alan Turing")
 end
