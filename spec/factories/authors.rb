@@ -4,4 +4,5 @@ FactoryGirl.define do
     last_name "Turing"
     homepage "http://wikipedia.org/Alan_Turing"
   end
+
 end

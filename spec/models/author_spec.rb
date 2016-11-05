@@ -8,4 +8,5 @@ RSpec.describe Author, type: :model do
   it "should return full name" do
     @author = build(:author)
     expect(@author.name).to eq("Alan Turing")
+  end
 end
