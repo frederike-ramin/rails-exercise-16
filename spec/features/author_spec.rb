@@ -14,3 +14,4 @@ describe "Authors index page", :type => :feature do
     it "should render" do
         visit '/authors'
     end
+end
