@@ -10,3 +10,7 @@ describe "Authors page", :type => :feature do
         expect(Author.find_by(first_name: 'Alan', last_name: 'Turing', homepage: 'http://wikipedia.org/Alan_Turing')).to_not be_nil
     end
 end
+describe "Authors index page", :type => :feature do
+    it "should render" do
+        visit '/authors'
+    end
