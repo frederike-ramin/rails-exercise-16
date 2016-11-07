@@ -14,4 +14,12 @@ describe "Authors index page", :type => :feature do
     it "should render" do
         visit '/authors'
     end
+
+    it "should list name and homepage of all authors"
+        create(:author)
+        visit '/authors'
+
+        expect(page).to have_text('Alan Turing')
+        expect(page).to have_test('http://wikipedia.org/Alan_Turing')
+    end
 end
